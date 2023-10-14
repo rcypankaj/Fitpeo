@@ -1,0 +1,11 @@
+.container {
+  position: fixed;
+  background-color: black;
+  width: 15vw;
+  height: 100vh;
+  color: white;
+}
+
+.image-title_container {
+  width: 30px;
+}
